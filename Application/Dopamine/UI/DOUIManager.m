@@ -106,7 +106,7 @@
         NSMutableDictionary* newcommit = [tags[0] mutableCopy];
         newcommit[@"tag_name"] = tags[0][@"name"];
         newcommit[@"body"] = commit[@"commit"][@"message"];
-        newcommit[@"assets"] = @[@{@"browser_download_url":@"https://github.com/roothide/Dopamine2-roothide"}];
+        newcommit[@"assets"] = @[@{@"browser_download_url":@"https://github.com/taynambenichio/Dopamine"}];
         releases = @[newcommit.copy];
         
     }
