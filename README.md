@@ -1,4 +1,4 @@
-# Dopamine2-roothide
+# Dopamine
 
 - Document: https://github.com/roothide/Developer
 
@@ -7,4 +7,4 @@
 - Discord: https://discord.com/invite/scqCkumAYp
 
 
-# Builded Dopamine2-roothide
+# Builded Dopamine
