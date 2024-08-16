@@ -128,11 +128,7 @@ void jbupdate_update_system_info(void)
 				"struct",
 				"physrw",
 				"perfkrw",
-<<<<<<< HEAD
-        "namecache",
-=======
                 "namecache",
->>>>>>> 6dfcdc2589a303c4d3de52786fbc33da03ae3c5c
 				"amfi_oids",
 				NULL,
 				NULL,
